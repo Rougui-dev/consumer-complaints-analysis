@@ -8,7 +8,7 @@ This project investigates consumer complaint patterns and response trends based 
 ## Dashboard Insights & Visualizations
 
 ### 1. Annual Complaint Volumes
-![Complaints by Year](figures/01_complaints_by_year.png)
+![Complaints by Year](AlalystLab/Week4_DataScience_Project/figures/01_complaints_by_year.png)
 
 ### 2. Top Financial Products
 ![Top Products](figures/02_top_products.png)
